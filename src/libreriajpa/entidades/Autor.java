@@ -24,6 +24,7 @@ public class Autor implements Serializable {
     
     private String nombre;
     private Boolean alta;
+    private String nombre1;
 
     public Autor() {
     }
